@@ -10,6 +10,7 @@
     "bootstrap": "rm -rf node_modules && yarn install"
   },
   "dependencies": {
+    "cypress": "^10.9.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
